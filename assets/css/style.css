@@ -1,0 +1,21 @@
+html,body {
+    background-image:url("../images/background.jpg");
+}
+.container {
+    background-color: #fff;
+    background-color: rgba(255,255,255,0.5);
+}
+.objecty {
+    font-size:20px;
+}
+.header-img {
+    height:100px;
+    width:auto;
+}
+.gray-bg {
+    background-color: #e9ecef;
+}
+
+.text-muted {
+    color:black !important;
+}
